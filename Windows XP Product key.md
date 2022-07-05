@@ -1,5 +1,7 @@
 - Windows XP Product Keys -
 
+please view this file in raw or else it wouldn't make sense
+
 100% working key for professional xp machines:
 C82GJ-YH627-72GBT-R7XV7-M7Y4B
 

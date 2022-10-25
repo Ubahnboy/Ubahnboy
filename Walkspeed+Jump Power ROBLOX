@@ -1,3 +1,4 @@
+-- MADE BY UBAHNBOY, IF YOU GET THIS FROM ANYWHERE EXCEPT YOUTUBE CHANNEL CALLED 'UBAHNBOY', PLEASE REPORT TO CHANNNEL IN ANY VIDEO COMMENTS --
 
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Walkspeed+Jump Power Changer", "Ocean")
@@ -10,8 +11,8 @@ PlayerSection:NewSlider("Jumppower", "Jump High, Or Low", 1000, 1, function(s)
 game.Players.LocalPlayer.Character.Humanoid.JumpPower = s
 end)
 
-
 PlayerSection:NewButton("Reset WS/JP", "Resets to all defaults", function()
 game.Players.LocalPlayer.Character.Humanoid.JumpPower = 50
 game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = 16
 end)
+ 

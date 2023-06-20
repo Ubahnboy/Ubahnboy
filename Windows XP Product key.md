@@ -2,14 +2,10 @@
 
 please view this file in raw or else it wouldn't make sense
 
-100% working key for professional xp machines:
-C82GJ-YH627-72GBT-R7XV7-M7Y4B
+XP Professional SP2 64bit key (tested):
+B66VY-4D94T-TPPD4-43F72-8X4FY
 
-100% working key for home xp machines:
-HJYKV-X6KQG-C4YTT-H672V-6GDRM
-
-Windows XP Professional 64 bit Product Key
-
+Windows XP Professional 64 bit Product Keys
 JHJ6R-BM2QW-YKW49-J7GYC-PPD2W
 TFGK8-RQT7R-F6KW8-Q2X4M-YF2CX
 P6Q8C-67D6P-X2PMX-M3372-RYY8F
@@ -29,8 +25,7 @@ PXV3X-T8MP7-D3XFW-2327C-VPDQ8
 F6HQW-Q3799-9CJXR-9P3YD-6CJJ6
 TT6M7-RCMJK-RW433-PYDQR-2R8FD
 
-Windows XP Professional 32-Bit Product Key
-
+Windows XP Professional 32-Bit Product Keys
 JQ4T4-8VM63-6WFBK-KTT29-V8966
 FIOSD-FUHY7-ERTY7-843UR-OEJFK
 GWH28-DGCMP-P6RC4-6J4MT-3HFDY
@@ -80,7 +75,6 @@ XW6Q2-MP4HK-GXFK3-KPGG4-GM36T
 23YU7-65RK0-HEVJK-SDAGI-OP265
 
 Windows XP Home Edition Product Key
-
 JT42G-DDBCX-WTDMB-8WCT2-JGGH8
 V7BWD-G9YR6-9FG87-8Q2HV-YJGTG
 PW6PT-TCGBR-HKTCT-GKKY6-QGK86
